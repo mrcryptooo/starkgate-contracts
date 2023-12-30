@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains the Cairo and Solidity code for the L1<>L2 bridges of StarkNet,
+This  repository contains the Cairo and Solidity code for the L1<>L2 bridges of StarkNet,
 as well as StarkNet's ERC20 token contract implementation that interacts with the bridges.
 You can read the documentation of the bridges [here](https://starknet.io/documentation/starkgate-token-bridge/)
 and the documentation of the general L1<>StarkNet messaging system [here](https://starknet.io/documentation/l1-l2-messaging/).
